@@ -6,7 +6,7 @@
           <span>Our Process</span>
           <h2>From Sprint To Launch, Agility In Action</h2>
           <p>
-            Intelivita follow the agile project management process to get things
+            Mn Webbased follow the agile project management process to get things
             done faster and with maximum quality. We break down the entire
             mobile app development project into several phases, each phase
             dedicated to taking the project further to completion.

@@ -1,6 +1,6 @@
 <template>
   
-    <section class="brand-logo">
+    <section class="brand-logo dont-show-on-mobile">
       <div class="container">
         <div
           class="brands_logo d-flex flex-wrap align-items-center justify-content-center"
@@ -16,7 +16,7 @@
           <div>
             <img
               src="../../assets/images/Savvy.png"
-              alt="Intelivita provided on demand taxi booking application development solution for Savvy"
+              alt="Mn Webbased provided on demand taxi booking application development solution for Savvy"
               width="188"
               height="94"
             />
@@ -32,7 +32,7 @@
           <div>
             <img
               src="../../assets/images/itv-colour-picked-neg.png"
-              alt="Intelivita developed an escape room web application for ITV."
+              alt="Mn Webbased developed an escape room web application for ITV."
               width="188"
               height="94"
             />

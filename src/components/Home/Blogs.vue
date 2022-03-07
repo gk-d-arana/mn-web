@@ -2,7 +2,7 @@
   <section class="padding-60 bg-light">
    <div class="container">
    <div class="title">
-      <span>What's Going on at Intelivita</span>
+      <span>What's Going on at Mn Webbased </span>
       <h2>Fresh off the Press</h2>
    </div>
    <div class="blog-slider d-flex p-relative o-hidden slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1158px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 386px;"><div><div class="item" style="width: 100%; display: inline-block;">

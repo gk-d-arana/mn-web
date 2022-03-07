@@ -444,6 +444,9 @@ fill:#fff;
 	margin-bottom: 10px;
 }
 
+.slick-track{
+	display: flex;
+}
 .slick-track::after, .slick-track::before {
 	display: table;
 	content: '';
@@ -457,12 +460,13 @@ fill:#fff;
 }
 .slick-slide {
 	display: block;
-    width:293px;
+    width:293px !important;
 	float: left;
 	outline: 0;
 	height: 100%;
 	min-height: 1px;
 }
+
 
 .why-choose-box {
 	width: 100%;

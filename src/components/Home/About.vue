@@ -23,7 +23,7 @@
             <div class="video-area-wrapper">
               <img
                 class="lazy"
-                alt="Intelivita is one of the prominent mobile application development companies in the UK, offering iPhone (iOS) &amp; Android app development services."
+                alt="Mn Webbased is one of the prominent mobile application development companies in the UK, offering iPhone (iOS) &amp; Android app development services."
                 src="https://www.intelivita.co.uk/assets/frameworks/public/images/home/about-us-video.jpg"
                 style=""
                 width="600"
@@ -38,14 +38,14 @@
           <div class="col-12 col-lg-6 col-sm-12">
             <div class="title text-left">
               <span>Who We Are</span>
-              <h2>About Intelivita</h2>
+              <h2>About Mn Webbased </h2>
             </div>
             <h3 class="mb-3">
               A bunch of digitally inspired guys with a passion for all things
               game, web and mobile application development.
             </h3>
             <p>
-              Intelivita are a web and mobile app development company
+              Mn Webbased are a web and mobile app development company
               headquartered in Leeds, UK. We had a humble start in life,
               beginning as a small group of three; two being founders of the
               group and the other a full time mobile app developer on the
@@ -53,7 +53,7 @@
             </p>
             <p>
               Today, almost a decade later, through determination and a passion
-              for technology, Intelivita has evolved into a globally renowned
+              for technology, Mn Webbased has evolved into a globally renowned
               digital agency, recognised as a leader in web and mobile app
               development in the UK and globally. From mobile app development to
               eCommerce development, to virtual reality to augmented reality app
@@ -64,7 +64,7 @@
               What makes us unique compared with other mobile app development
               companies in UK is that we approach every project as an
               opportunity to deliver bespoke solutions in state-of-the-art
-              technologies. At Intelivita, perfection is not just another trait,
+              technologies. At Mn Webbased , perfection is not just another trait,
               but a way of life that we have become habitual to. Rest assured,
               when you partner with us, you are shaking hands with a strong ally
               who can make your digital dreams come true.

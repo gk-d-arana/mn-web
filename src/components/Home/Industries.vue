@@ -8,7 +8,7 @@
             Every industry, every business is as unique as a fingerprint. Bulk
             produced or cookie cut software does not further the business
             objectives. What your business needs is focused and bespoke digital
-            solutions for diverse use cases. Intelivita can help with that.
+            solutions for diverse use cases. Mn Webbased can help with that.
           </p>
         </div>
         <div class="row">

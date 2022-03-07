@@ -92,7 +92,7 @@
                   >
                     <img
                       class="lazy"
-                      alt="Do you have this in mind- hockey app is offered by which company? yes, Intelivita developed a hockey mobile game app for a remote mobile game developer."
+                      alt="Do you have this in mind- hockey app is offered by which company? yes, Mn Webbased developed a hockey mobile game app for a remote mobile game developer."
                       src="https://www.intelivita.co.uk/assets/frameworks/public/images/author/mukul-verma.jpg"
                       style=""
                       width="71"
@@ -184,7 +184,7 @@
                               made slight improvements. Users love the iOS
                               version and post positive reviews of it on the App
                               Store. Offering local management staff and
-                              offshore development, Intelivita provided an
+                              offshore development, Mn Webbased provided an
                               excellent service at a great price.
                             </p>
                             <span
@@ -211,7 +211,7 @@
                               made slight improvements. Users love the iOS
                               version and post positive reviews of it on the App
                               Store. Offering local management staff and
-                              offshore development, Intelivita provided an
+                              offshore development, Mn Webbased provided an
                               excellent service at a great price.
                             </p>
                             <span
@@ -236,7 +236,7 @@
                               made slight improvements. Users love the iOS
                               version and post positive reviews of it on the App
                               Store. Offering local management staff and
-                              offshore development, Intelivita provided an
+                              offshore development, Mn Webbased provided an
                               excellent service at a great price.
                             </p>
                             <span
@@ -265,5 +265,7 @@ export default {
 </script>
 
 <style>
-
+.slick-initialized .slick-slide{
+  display: flex;
+}
 </style>

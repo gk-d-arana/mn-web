@@ -90,19 +90,19 @@
                            <img class="lazy" alt="We're top mobile app development company London offering Android and iPhone app development solutions for clients in London and across the UK." src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/clutch-award.png" style="" width="127" height="135">
                         </div>
                         <div class="item">
-                           <img class="lazy" alt="Clutch awarded intelivita as a top mobile app developer for is high-quality mobile app development services UK" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/appfutura-badge.png" style="" width="140" height="135">
+                           <img class="lazy" alt="Clutch awarded Mn Webbased as a top mobile app developer for is high-quality mobile app development services UK" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/appfutura-badge.png" style="" width="140" height="135">
                         </div>
                         <div class="item">
                            <img class="lazy" alt="client say we deliver excellent mobile app development solutions." src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/clutch-award2.png" style="" width="135" height="135">
                         </div>
                         <div class="item">
-                           <img class="lazy" alt="Goodfirms recognizes intelivita as a top augmented reality and virtual reality app development company across the globe" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/goodfirms-award.png" style="" width="169" height="135">
+                           <img class="lazy" alt="Goodfirms recognizes Mn Webbased as a top augmented reality and virtual reality app development company across the globe" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/goodfirms-award.png" style="" width="169" height="135">
                         </div>
                         <!-- <div class="item">
                            <img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/goodfirms-award-android.png" width="236" height="189" alt="">
                         </div> -->
                         <div class="item">
-                           <img class="lazy" alt="Mobile App Daily rated intelivita among few of the flutter app development company in the UK" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/mobile-app-daily-award.png" style="" width="136" height="135">
+                           <img class="lazy" alt="Mobile App Daily rated Mn Webbased among few of the flutter app development company in the UK" src="https://www.intelivita.co.uk/assets/frameworks/public/images/about-us/mobile-app-daily-award.png" style="" width="136" height="135">
                         </div>
                      </div>
                   </div>
@@ -122,7 +122,7 @@
             <div class="row align-items-center">
                <div class="col-lg-5 col-md-12 col-sm-12 col-12 text-center text-lg-left order-1 order-lg-0">
                   <div class="foot-copy">
-                     <p>© 2021 Intelivita Limited. All rights reserved.</p>
+                     <p>© 2021 Mn Webbased Limited. All rights reserved.</p>
                   </div>
                </div>
                <div class="col-lg-7 col-md-12 col-sm-12 col-12 text-center text-lg-right order-0 order-lg-1">

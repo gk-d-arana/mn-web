@@ -4,7 +4,7 @@
    <div class="title">
       <span>Choose What Suits You Best</span>
       <h2>Choose An Engagement Model Of Your Choice</h2>
-      <p>Intelivita offers three engagement models in web and mobile app development: part-time hiring, full-time hiring and hourly hiring. Our engagement models are designed to give you maximum flexibility while helping you meet your resource requirements.</p>
+      <p>Mn Webbased offers three engagement models in web and mobile app development: part-time hiring, full-time hiring and hourly hiring. Our engagement models are designed to give you maximum flexibility while helping you meet your resource requirements.</p>
    </div>
    <div class="row mt-5 hire-col">
       <div class="col-12 col-sm-12 col-lg-6">

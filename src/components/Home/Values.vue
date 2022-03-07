@@ -5,7 +5,7 @@
           <span>Our Value</span>
           <h2>What Makes Us Unique</h2>
           <p>
-            At the heart of Intelivita is a team of dreamers and doers who are
+            At the heart of Mn Webbased is a team of dreamers and doers who are
             laser-focused on delivering value to clients. We have a collective
             can-do attitude, the right skills to conquer challenges and the
             integrity to do the right thing always.
@@ -14,7 +14,7 @@
         <div
           class="Feature-slider d-flex p-relative o-hidden slick-initialized slick-slider"
         >
-          <div class="slick-list draggable">
+          <div class="slick-list draggable scroll-me">
             <div
               class="slick-track"
               style="

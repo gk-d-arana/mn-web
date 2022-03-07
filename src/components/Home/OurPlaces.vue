@@ -11,7 +11,7 @@
                   <div class="row align-items-end justify-content-between">
                      <div class="col-12 col-sm-12">
                         <div class="footer_box_img mb-30">
-                           <img class="lazy box-shadow rounded10" alt="Intelivita web and mobile development company in Leeds." src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/leeds.jpg" style="" width="360" height="227">
+                           <img class="lazy box-shadow rounded10" alt="Mn Webbased web and mobile development company in Leeds." src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/leeds.jpg" style="" width="360" height="227">
                         </div>
                         <div class="footer_box_add">
                            <h5>Leeds</h5>
@@ -66,7 +66,7 @@
                   <div class="row align-items-end justify-content-between">
                      <div class="col-12 col-sm-12">
                         <div class="footer_box_img mb-30">
-                           <img class="lazy box-shadow rounded10" alt="Intelivita is one of the leading web and mobile development companies in London. We have a team of experienced UI/IX, app developers and developers." src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/london.jpg" style="" width="360" height="227">
+                           <img class="lazy box-shadow rounded10" alt="Mn Webbased is one of the leading web and mobile development companies in London. We have a team of experienced UI/IX, app developers and developers." src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/london.jpg" style="" width="360" height="227">
                         </div>
                         <div class="footer_box_add">
                            <h5>London</h5>
@@ -121,7 +121,7 @@
                   <div class="row align-items-end justify-content-between">
                      <div class="col-12 col-sm-12">
                         <div class="footer_box_img mb-30">
-                           <img class="lazy box-shadow rounded10" alt="Intelivita Mobile App Development Office" src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/india.jpg" style="" width="360" height="227">
+                           <img class="lazy box-shadow rounded10" alt="Mn Webbased Mobile App Development Office" src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/india.jpg" style="" width="360" height="227">
                         </div>
                         <div class="footer_box_add">
                            <h5>India</h5>

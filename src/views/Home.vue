@@ -1,7 +1,7 @@
 <template>
 
 
-  <div>
+  <div class="hide-flow">
 
     <HomeBanner></HomeBanner>
 

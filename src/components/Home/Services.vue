@@ -257,7 +257,7 @@
                       mobile-world?
                     </p>
                     <p>
-                      For close to a decade, Intelivita being a top mobile app
+                      For close to a decade, Mn Webbased being a top mobile app
                       development company has produced apps for various
                       industries and partners, from the start-up Social Media
                       app Chatagram, to the Art of Works Virtual Reality app for
@@ -652,7 +652,7 @@
                       development.
                     </p>
                     <p>
-                      Intelivita is proud to be recognized as one among the top
+                      Mn Webbased is proud to be recognized as one among the top
                       VR/AR mobile app developers in UK. We have helped
                       countless clients with our expertise and would be happy to
                       make you our next.
@@ -1003,7 +1003,7 @@
                   <img
                     class="lazy"
                     data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/home/ui-ux-tab.jpg"
-                    alt="Intelivita offers mobile user interface design services in the UK and across the world"
+                    alt="Mn Webbased offers mobile user interface design services in the UK and across the world"
                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
                   />
                 </div>

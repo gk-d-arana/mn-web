@@ -1,22 +1,22 @@
 <template>
   <div>
     <!-- ======= Top Bar ======= -->
-    <div id="topbar" class="d-flex align-items-center fixed-top dont-show-on-mobile">
+    <div id="topbar" class="dont-show-on-mobile d-flex align-items-center fixed-top dont-show-on-mobile">
       <div class="container">
          <div class="d-flex align-items-center justify-content-between">
            <div class="top-left-part">
              <a href="#">
-               <img src="https://www.intelivita.co.uk/assets/frameworks/public/images/clutch-b2b-logo.svg" alt="Intelivita is top rated mobile app agency UK, with offices in London and Leeds. Specialising in mobile app design and development for iOS and Android." width="88" height="25">
+               <img src="https://www.intelivita.co.uk/assets/frameworks/public/images/clutch-b2b-logo.svg" alt="Mn Webbased is top rated mobile app agency UK, with offices in London and Leeds. Specialising in mobile app design and development for iOS and Android." width="88" height="25">
                <div class="star">
-                <img src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/footer-rating.png" alt="Intelivita is top app making company in UK" width="110" height="19">
+                <img src="https://www.intelivita.co.uk/assets/frameworks/public/images/footer/footer-rating.png" alt="Mn Webbased is top app making company in UK" width="110" height="19">
                </div>
                <strong>Excellent</strong> 
                 <span> 4.8 out of 5</span>
              </a>
            </div>
            <div class="top-right-part d-flex align-items-center justify-content-between">
-             <span>Email us on <a href="mailto:sales@intelivita.co.uk"><strong>sales@intelivita.co.uk</strong></a> or Speak to our expert</span>
-             <a href="tel:+447368285632"><strong>+44 736 828 5632</strong></a>
+             <span>Email us on <a href="mailto:sales@intelivita.co.uk"><strong>info@mnwebbased.in</strong></a> or Speak to our expert</span>
+             <a href="tel:+447368285632"><strong>+91-7000830437</strong></a>
                              <span class="or">or</span>
                <a href="javascript:;" class="head-requet-btn"><img src="https://www.intelivita.co.uk/assets/frameworks/public/images/home/oliver-request-call.jpg" alt="Oliver Baker is mobile app development consultant in the UK." width="30" height="26">Request a Call Back</a>
                          </div>

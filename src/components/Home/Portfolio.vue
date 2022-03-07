@@ -132,7 +132,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="An experienced on-demand taxi app developer. Intelivita provides taxi application development solutions for Startups and Entrepreneurs."
+                    alt="An experienced on-demand taxi app developer. Mn Webbased provides taxi application development solutions for Startups and Entrepreneurs."
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/doreltaxi.jpg"
                     style=""
                     width="430"
@@ -177,7 +177,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="As a sports fantasy sports app development company, intelivita developed Fantasyji, a cricket  fantasy app"
+                    alt="As a sports fantasy sports app development company, Mn Webbased developed Fantasyji, a cricket  fantasy app"
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/fantasyji.jpg"
                     style=""
                     width="430"
@@ -313,7 +313,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="Along with being a leader among the app development companies UK, Intelivita is also recognised as the top Virtual Reality App development company"
+                    alt="Along with being a leader among the app development companies UK, Mn Webbased is also recognised as the top Virtual Reality App development company"
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/microsoft_1.jpg"
                     style=""
                     width="430"
@@ -446,7 +446,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="An experienced on-demand taxi app developer. Intelivita provides taxi application development solutions for Startups and Entrepreneurs."
+                    alt="An experienced on-demand taxi app developer. Mn Webbased provides taxi application development solutions for Startups and Entrepreneurs."
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/doreltaxi.jpg"
                     style=""
                     width="430"
@@ -492,7 +492,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="As a sports fantasy sports app development company, intelivita developed Fantasyji, a cricket  fantasy app"
+                    alt="As a sports fantasy sports app development company, Mn Webbased developed Fantasyji, a cricket  fantasy app"
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/fantasyji.jpg"
                     style=""
                     width="430"
@@ -626,7 +626,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="Along with being a leader among the app development companies UK, Intelivita is also recognised as the top Virtual Reality App development company"
+                    alt="Along with being a leader among the app development companies UK, Mn Webbased is also recognised as the top Virtual Reality App development company"
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/microsoft_1.jpg"
                     style=""
                     width="430"
@@ -759,7 +759,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="An experienced on-demand taxi app developer. Intelivita provides taxi application development solutions for Startups and Entrepreneurs."
+                    alt="An experienced on-demand taxi app developer. Mn Webbased provides taxi application development solutions for Startups and Entrepreneurs."
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/doreltaxi.jpg"
                     style=""
                     width="430"
@@ -804,7 +804,7 @@
                   </div>
                   <img
                     class="img-fluid lazy"
-                    alt="As a sports fantasy sports app development company, intelivita developed Fantasyji, a cricket  fantasy app"
+                    alt="As a sports fantasy sports app development company, Mn Webbased developed Fantasyji, a cricket  fantasy app"
                     src="https://www.intelivita.co.uk/assets/frameworks/public/images/portfolio/fantasyji.jpg"
                     style=""
                     width="430"

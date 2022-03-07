@@ -44,7 +44,7 @@
                <a href="#" rel="noopener" target="_blank">
                   <div class="work_logo">
                      <img class="lazy" alt="Top Rated Freelance App developer on Upwork" src="https://www.intelivita.co.uk/assets/frameworks/public/images/brand/upwork.png" style="" width="200" height="75">
-                     <img class="top_rating_img lazy" alt="Intelivita UpWork Rating" src="https://www.intelivita.co.uk/assets/frameworks/public/images/brand/upwork-rating.png" style="" width="35">
+                     <img class="top_rating_img lazy" alt="Mn Webbased UpWork Rating" src="https://www.intelivita.co.uk/assets/frameworks/public/images/brand/upwork-rating.png" style="" width="35">
                   </div>
                   <div class="work_rating">
                      <img class="lazy" alt="Mobile App Developers London" src="https://www.intelivita.co.uk/assets/frameworks/public/images/author/star-user.svg" style="" width="50" height="50">

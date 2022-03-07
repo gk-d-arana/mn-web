@@ -18,7 +18,7 @@
                   </svg>
                </div>
                <div class="tool">Talk to us on Skype</div>
-               <div class="name"><a href="skype:live:b10b01d5af732dbe?chat">Intelivita Support</a></div>
+               <div class="name"><a href="skype:info@mnwebbased.in">Mn Webbased Support</a></div>
             </div>
          </div>
          <div class="col-md-4 col-12 mb-30">
@@ -38,7 +38,7 @@
                   </svg>
                </div>
                <div class="tool">Our Contact</div>
-               <div class="name"><a href="tel:+447368285632">+44 736 828 5632</a></div><!-- 113 357 0340 -->
+               <div class="name"><a href="tel:+917000830437">+91-7000830437</a></div><!-- 113 357 0340 -->
             </div>
          </div>
          <div class="col-md-4 col-12 mb-30">
@@ -65,7 +65,7 @@
                   </svg>
                </div>
                <div class="tool">If not Forms, brief us @</div>
-               <div class="name"><a href="mailto:sales@intelivita.co.uk">sales@intelivita.co.uk</a></div>
+               <div class="name"><a href="mailto:Sales@mnwebbased.in">Sales@mnwebbased.in</a></div>
             </div>
          </div>
       </div>

@@ -31,52 +31,52 @@
             </div>
             <div class="tab-pane fade" id="web-technologies" role="tabpanel" aria-labelledby="web-technologies-tab">
                <ul class="technologies_icons d-flex align-items-center justify-content-center">
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/php.svg" title="PHP" alt="PHP" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/wordpress.svg" title="WordPress" alt="WordPress" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/laravel.svg" title="Laravel" alt="Laravel" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/nodejs.svg" title="Node.js" alt="Node.js" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/angular.svg" title="Angular" alt="Angular" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/html5.svg" title="HTML5" alt="HTML5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/css3.svg" title="CSS3" alt="CSS3" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/jquery.svg" title="jQuery" alt="jQuery" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/bootstrap-4.svg" title="Bootstrap 4" alt="Bootstrap 4" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/php.svg" title="PHP" alt="PHP"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/wordpress.svg" title="WordPress" alt="WordPress"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/laravel.svg" title="Laravel" alt="Laravel"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/nodejs.svg" title="Node.js" alt="Node.js"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/angular.svg" title="Angular" alt="Angular"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/html5.svg" title="HTML5" alt="HTML5"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/css3.svg" title="CSS3" alt="CSS3"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/jquery.svg" title="jQuery" alt="jQuery"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/bootstrap-4.svg" title="Bootstrap 4" alt="Bootstrap 4"  width="78" height="78"></li>
                </ul>
             </div>
             <div class="tab-pane fade" id="cloud" role="tabpanel" aria-labelledby="cloud-tab">
                <ul class="technologies_icons d-flex align-items-center justify-content-center">
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/amazon-web-services.svg" title="Amazon Web Services" alt="Amazon Web Services" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/linode.svg" title="Linode" alt="Linode" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/icloud.svg" title="iCloud" alt="iCloud" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/amazon-web-services.svg" title="Amazon Web Services" alt="Amazon Web Services"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/linode.svg" title="Linode" alt="Linode"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/icloud.svg" title="iCloud" alt="iCloud"  width="78" height="78"></li>
                </ul>
             </div>
             <div class="tab-pane fade" id="database" role="tabpanel" aria-labelledby="database-tab">
                <ul class="technologies_icons d-flex align-items-center justify-content-center">
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/firebase.svg" title="Firebase" alt="Firebase" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/mongodb.svg" title="MongoDB" alt="MongoDB" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/mysql.svg" title="MySQL" alt="MySQL" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/firebase.svg" title="Firebase" alt="Firebase"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/mongodb.svg" title="MongoDB" alt="MongoDB"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/mysql.svg" title="MySQL" alt="MySQL"  width="78" height="78"></li>
                </ul>
             </div>
             <div class="tab-pane fade" id="design" role="tabpanel" aria-labelledby="design-tab">
                <ul class="technologies_icons d-flex align-items-center justify-content-center">
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/adobe-illustrator-cc.svg" title="Adobe Illustrator" alt="Adobe Illustrator" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/after-effects-cc.svg" title="Adobe After Effects" alt="Adobe After Effects" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/figma.svg" title="Figma" alt="Figma" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/invision.svg" title="InVision" alt="InVision" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/justinmind.svg" title="Justinmind" alt="Justinmind" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/photoshop-cc.svg" title="Adobe Photoshop" alt="Adobe Photoshop" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/sketch.svg" title="Sketch" alt="Sketch" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/adobe-illustrator-cc.svg" title="Adobe Illustrator" alt="Adobe Illustrator"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/after-effects-cc.svg" title="Adobe After Effects" alt="Adobe After Effects"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/figma.svg" title="Figma" alt="Figma"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/invision.svg" title="InVision" alt="InVision"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/justinmind.svg" title="Justinmind" alt="Justinmind"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/photoshop-cc.svg" title="Adobe Photoshop" alt="Adobe Photoshop"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/sketch.svg" title="Sketch" alt="Sketch"  width="78" height="78"></li>
                </ul>
             </div>
             <div class="tab-pane fade" id="strategies" role="tabpanel" aria-labelledby="strategies-tab">
                <ul class="technologies_icons d-flex align-items-center justify-content-center">
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/asana.svg" title="Asana" alt="Asana" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/basecamp.svg" title="Basecamp" alt="Basecamp" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/bitbucket.svg" title="Bitbucket" alt="Bitbucket" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/google-hangouts.svg" title="Google Hangouts" alt="Google Hangouts" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/skype.svg" title="Skype" alt="Skype" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/slack.svg" title="Slack" alt="Slack" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
-                  <li><img class="lazy" data-src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/trello.svg" title="Trello" alt="Trello" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/asana.svg" title="Asana" alt="Asana"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/basecamp.svg" title="Basecamp" alt="Basecamp"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/bitbucket.svg" title="Bitbucket" alt="Bitbucket"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/google-hangouts.svg" title="Google Hangouts" alt="Google Hangouts"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/skype.svg" title="Skype" alt="Skype"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/slack.svg" title="Slack" alt="Slack"  width="78" height="78"></li>
+                  <li><img class="lazy" src="https://www.intelivita.co.uk/assets/frameworks/public/images/technologies/trello.svg" title="Trello" alt="Trello"  width="78" height="78"></li>
                </ul>
             </div>
          </div>
