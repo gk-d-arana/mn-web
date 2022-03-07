@@ -1,80 +1,11 @@
 <template>
-  <div>
-    <!-- ======= Top Bar ======= -->
-    <div id="topbar" class="d-flex align-items-center fixed-top">
-      <div class="container d-flex justify-content-between">
-        <div class="contact-info d-flex align-items-center">
-          <i class="bi bi-envelope"></i>
-          <a href="mailto:contact@example.com">contact@example.com</a>
-          <i class="bi bi-phone"></i> +1 5589 55488 55
-        </div>
-      </div>
-    </div>
-
-    <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top">
-      <div class="container d-flex align-items-center">
-        <h1 class="logo me-auto">
-          <a href="index.html">
-            <img src="../../assets/images/logo512.png" />
-          </a>
-        </h1>
-
-        <nav id="navbar" class="navbar order-last order-lg-0">
-          <ul>
-            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-
-            <li class="dropdown">
-              <a href="#"
-                ><span>Company</span> <i class="bx bx-chevron-down"></i></a>
-              <ul>
-                <li><a href="#"><i class="bx bx-chevron-right"></i>Who We Are</a></li>
-                <li><a href="#"><i class="bx bx-chevron-right"></i>How We Work</a></li>
-                <li><a href="#"><i class="bx bx-chevron-right"></i>Client Review</a></li>
-                <li><a href="#"><i class="bx bx-chevron-right"></i>Technologies</a></li>
-              </ul>
-            </li>
-
-
-            <li class="dropdown">
-              <a href="#"
-                ><span>Our Service</span> <i class="bx bx-chevron-down"></i
-              ></a>
-
-            </li>
-            
-            <li class="dropdown">
-              <a href="#"
-                ><span>Solution</span> <i class="bx bx-chevron-down"></i
-              ></a>
-              
-            </li>
-            
-            <li><a class="nav-link scrollto" href="#contact">Portfolio</a></li>
-            
-            <li><a class="nav-link scrollto" href="#contact">Blog</a></li>
-            
-            <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          </ul>
-          <i class="bx bx-list-ul mobile-nav-toggle"></i>
-        </nav>
-        <!-- .navbar -->
-
-        <a href="#appointment" class="appointment-btn scrollto"
-          ><span class="d-none d-md-inline">Make an</span> Appointment</a
-        >
-      </div>
-    </header>
-    <!-- End Header -->
-
-    <!-- Our Service Div That Appears on Hover Over Our_Services -->
-    <div class="our-services-div">
+      <div class="our-services-div">
       <div class="os-wrapper row">
             <div class="col-3">
        <span class="px-2 py-4 cc-h"> 
           <svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                           <g>
-                            <path class="st0" d="M63.5,94.5c0,1.2-0.9,2.1-2.1,2.1H18c-1.2,0-2.1-0.9-2.1-2.1V83.7h42.1v-3H16V5.1C16,4,16.9,3,18,3h43.3
+                            <path class="st1" d="M63.5,94.5c0,1.2-0.9,2.1-2.1,2.1H18c-1.2,0-2.1-0.9-2.1-2.1V83.7h42.1v-3H16V5.1C16,4,16.9,3,18,3h43.3
                             c1.2,0,2.1,0.9,2.1,2.1v7.6H21.5v3h41.9v8.2h3V5.1c0-2.8-2.3-5.1-5.1-5.1H18C15.2,0,13,2.3,13,5.1v89.4c0,2.8,2.3,5.1,5.1,5.1h43.3
                             c2.8,0,5.1-2.3,5.1-5.1V80.1h-3V94.5z M36,6.3v3h7.5v-3H36z M34.8,90.3c0,2.7,2.2,4.9,4.9,4.9c2.7,0,4.9-2.2,4.9-4.9
                             c0-2.7-2.2-4.9-4.9-4.9C37,85.4,34.8,87.6,34.8,90.3z M41.6,90.3c0,1.1-0.8,1.9-1.9,1.9c-1,0-1.9-0.9-1.9-1.9s0.8-1.9,1.9-1.9
@@ -106,7 +37,7 @@
                             <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                               <g>
                                 <g>
-                                  <path class="st0" d="M49.7,25.7c0.4,0,0.8,0,1.1,0c5.3,0,11-2.9,14.8-7.5c4-4.8,6.1-11,5.5-16.6c-0.1-1-1-1.7-2-1.7
+                                  <path class="st1" d="M49.7,25.7c0.4,0,0.8,0,1.1,0c5.3,0,11-2.9,14.8-7.5c4-4.8,6.1-11,5.5-16.6c-0.1-1-1-1.7-2-1.7
                                   c-5.4,0.2-11.8,3.5-15.6,7.9c-3.3,3.7-6.4,9.9-5.6,16.2C48.1,24.9,48.8,25.6,49.7,25.7z M56.5,10.3c2.7-3.1,7.1-5.6,11-6.3
                                   c-0.1,4.1-1.8,8.4-4.7,11.9c-2.9,3.5-7.2,5.8-11.1,6.1C51.7,17.4,54.1,12.9,56.5,10.3z M90.1,70c-1.2-0.5-11.7-5.1-11.8-17.5
                                   c-0.1-9.9,7.2-15.1,9.6-16.6c0.4-0.3,0.7-0.7,0.8-1.2c0.1-0.5,0-1-0.3-1.4C82.3,24.5,73,23.2,69.4,23.1c-5-0.5-9.9,1.4-13.6,2.8
@@ -123,7 +54,7 @@
                           </li>
                           <li class="">
                             <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-                                <path class="st0" d="M65.3,9l2.9-4.3c0.5-0.7,0.6-1.5,0.5-2.3c-0.2-0.8-0.6-1.5-1.3-1.9C66-0.4,64,0,63.1,1.3l-3.4,5.1
+                                <path class="st1" d="M65.3,9l2.9-4.3c0.5-0.7,0.6-1.5,0.5-2.3c-0.2-0.8-0.6-1.5-1.3-1.9C66-0.4,64,0,63.1,1.3l-3.4,5.1
                                 c-6.2-2-13.2-2-19.4,0l-3.4-5.1C36,0,34-0.4,32.7,0.5c-1.4,0.9-1.8,2.8-0.8,4.2L34.7,9c-7.1,4.2-11.5,11.4-11.5,18.9
                                 c0,1.2,1,2.1,2.2,2.1h49.6c1.2,0,2.2-1,2.2-2.1C77,20.4,72.5,13.2,65.3,9L65.3,9z M27.6,25.8c0.8-5.9,5-11.2,11.1-14
                                 c0.3-0.1,0.5-0.3,0.7-0.5c0.3,0,0.6,0,0.8-0.1c6.1-2.4,13.4-2.4,19.5,0c0.3,0.1,0.6,0.2,0.8,0.1c0.2,0.2,0.4,0.4,0.7,0.5
@@ -145,8 +76,8 @@
                           <li class="">
                             <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                                <g>
-                                <path class="st0" d="M17.3,0L2.2,15.2l5.5,5L27.8,0H17.3z M7.7,18.8l-4-3.6L17.7,1h7.6L7.7,18.8z"></path>
-                                <path class="st0" d="M17.2,13.5l-8.4,8.3l4.9,4.9L17,30h10.5l-8.1-8.1l8.3-8.4H17.2z M10.4,21.9l3.7-3.8l3.9,3.9l-3.8,3.8
+                                <path class="st1" d="M17.3,0L2.2,15.2l5.5,5L27.8,0H17.3z M7.7,18.8l-4-3.6L17.7,1h7.6L7.7,18.8z"></path>
+                                <path class="st1" d="M17.2,13.5l-8.4,8.3l4.9,4.9L17,30h10.5l-8.1-8.1l8.3-8.4H17.2z M10.4,21.9l3.7-3.8l3.9,3.9l-3.8,3.8
                                 L10.4,21.9z M25,29h-7.6l-2.5-2.5l3.8-3.8L25,29z M14.8,17.3l2.8-2.8h7.7l-6.6,6.7L14.8,17.3z"></path>
                               </g>
                             </svg></span>Flutter App Development</a>
@@ -155,7 +86,7 @@
                             <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                                <g>
                                 <g>
-                                  <path class="st0" d="M52.3,69.7c0-1.4-1-2.5-2.3-2.5c-1.3,0-2.3,1.1-2.3,2.5s1,2.5,2.3,2.5C51.3,72.1,52.3,71,52.3,69.7z
+                                  <path class="st1" d="M52.3,69.7c0-1.4-1-2.5-2.3-2.5c-1.3,0-2.3,1.1-2.3,2.5s1,2.5,2.3,2.5C51.3,72.1,52.3,71,52.3,69.7z
                                   M13.6,84.4c-1.3,0-2.3,1.1-2.3,2.5c0,1.4,1,2.5,2.3,2.5c1.3,0,2.3-1.1,2.3-2.5C15.9,85.5,14.9,84.4,13.6,84.4z M93.2,3.4H6.8
                                   C3.1,3.4,0,6.7,0,10.8v34.4c0,1.4,1,2.5,2.3,2.5c1.3,0,2.3-1.1,2.3-2.5V10.8c0-1.4,1-2.5,2.3-2.5h86.4c1.3,0,2.3,1.1,2.3,2.5v19.6
                                   c0,1.4,1,2.5,2.3,2.5c1.3,0,2.3-1.1,2.3-2.5V10.8C100,6.7,96.9,3.4,93.2,3.4z M43.2,81.9h9.1c1.3,0,2.3-1.1,2.3-2.5
@@ -175,7 +106,7 @@
                             <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                <g>
                                 <g>
-                                  <path class="st0" d="M55,90.4h-8.3c-0.9,0-1.6,0.7-1.6,1.5c0,0.8,0.7,1.5,1.6,1.5H55c0.9,0,1.6-0.7,1.6-1.5
+                                  <path class="st1" d="M55,90.4h-8.3c-0.9,0-1.6,0.7-1.6,1.5c0,0.8,0.7,1.5,1.6,1.5H55c0.9,0,1.6-0.7,1.6-1.5
                                   C56.6,91.1,55.9,90.4,55,90.4z M30.6,38.9C30.6,38.9,30.6,38.9,30.6,38.9C30.6,38.9,30.6,38.9,30.6,38.9
                                   C30.6,38.9,30.6,38.9,30.6,38.9C30.6,38.9,30.6,38.9,30.6,38.9c-0.1,0.1-0.1,0.1-0.1,0.1c0,0,0,0,0,0l0,0c0,0,0,0-0.1,0l0,0
                                   c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0l0,0c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0c-0.2,0.2-0.3,0.4-0.3,0.7
@@ -208,7 +139,7 @@
                             <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                <g>
                                 <g>
-                                  <path class="st0" d="M35.7,47.2h8.1c1.8,0,3.4-1,4.1-2.6c0.2-0.5,0.7-0.7,1.2-0.7H52c0.5,0,1,0.3,1.2,0.7c0.8,1.6,2.4,2.6,4.1,2.6
+                                  <path class="st1" d="M35.7,47.2h8.1c1.8,0,3.4-1,4.1-2.6c0.2-0.5,0.7-0.7,1.2-0.7H52c0.5,0,1,0.3,1.2,0.7c0.8,1.6,2.4,2.6,4.1,2.6
                                   h8.1c3.6,0,6.6-3,6.6-6.6V34c0-3.6-3-6.6-6.6-6.6H35.7c-3.6,0-6.6,3-6.6,6.6v6.6C29.1,44.2,32,47.2,35.7,47.2z M32.4,34
                                   c0-1.8,1.5-3.3,3.3-3.3h29.7c1.8,0,3.3,1.5,3.3,3.3v6.6c0,1.8-1.5,3.3-3.3,3.3h-8.1c-0.5,0-1-0.3-1.2-0.7
                                   c-0.8-1.6-2.4-2.6-4.1-2.6H49c-1.8,0-3.4,1-4.1,2.6c-0.2,0.5-0.7,0.7-1.2,0.7h-8.1c-1.8,0-3.3-1.5-3.3-3.3V34z M95,81.5
@@ -235,7 +166,7 @@
 <svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                              <g>
                               <g>
-                                <path class="st0" d="M10.8,4C8.3,4,6.5,6,6.5,8.5c0,2.5,1.8,4.5,4.3,4.5c2.5,0,4.5-2,4.5-4.5C15.3,6,13.3,4,10.8,4z M10.8,9.9
+                                <path class="st1" d="M10.8,4C8.3,4,6.5,6,6.5,8.5c0,2.5,1.8,4.5,4.3,4.5c2.5,0,4.5-2,4.5-4.5C15.3,6,13.3,4,10.8,4z M10.8,9.9
                                 c-0.8,0-1.2-0.6-1.2-1.4c0-0.8,0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4C12.2,9.3,11.6,9.9,10.8,9.9z M22.3,4c-2.5,0-4.5,2-4.5,4.5
                                 c0,2.5,2,4.5,4.5,4.5c2.5,0,4.5-2,4.5-4.5C26.7,6,24.7,4,22.3,4z M22.3,9.9c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4
                                 c0.8,0,1.4,0.6,1.4,1.4C23.6,9.3,23,9.9,22.3,9.9z M33.8,4c-2.5,0-4.5,2-4.5,4.5c0,2.5,2,4.5,4.5,4.5c2.5,0,4.5-2,4.5-4.5
@@ -280,10 +211,10 @@
 </span>
 <ul class="serv-ul">
                             <li class="">
-                              <a href="https://www.intelivita.co.uk/php-web-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
+                              <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                                  <g>
                                   <g>
-                                    <path class="st0" d="M99.5,28L72.6,1.6c-0.3-0.3-1-0.6-1.3-0.6H31.3c-4.3,0-8,3.5-8,7.5v26.7H7c-3.3,0-6,2.5-6,5.7v28.6
+                                    <path class="st1" d="M99.5,28L72.6,1.6c-0.3-0.3-1-0.6-1.3-0.6H31.3c-4.3,0-8,3.5-8,7.5v26.7H7c-3.3,0-6,2.5-6,5.7v28.6
                                     c0,3.1,2.7,5.7,6,5.7h16.3v17.3c0,4.1,3.7,7.5,8,7.5h60.5c4.3,0,8-3.5,8-7.5V29.3C100.2,29,99.8,28.3,99.5,28z M71.9,6.3l22,21.7
                                     h-22V6.3z M7,71.7V72c-1,0-2-0.9-2-1.9V41.2c0-0.9,1-1.9,2-1.9h54.6c1,0,2,0.9,2,1.9v28.6c0,0.9-1,1.9-2,1.9H7z M92.2,96.8H31.3
                                     c-2.3,0-4-1.6-4-3.8V75.8h34.3c3.3,0,6-2.5,6-5.7V41.2c0-3.1-2.7-5.7-6-5.7H27.3V8.9c0-2.2,1.7-3.8,4-3.8h36.3v24.8
@@ -300,10 +231,10 @@
                               </svg></span>PHP Web Development</a>
                             </li>
                             <li class="">
-                              <a href="https://www.intelivita.co.uk/wordpress-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                              <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                  <g>
                                   <g>
-                                    <path class="st0" d="M73.1,26.6c-0.9,0.6-0.9,1.9-0.3,2.8c5.3,6.3,1.6,17.5,1.3,18.8l-9.7,27.5L49.9,34.4h5.4
+                                    <path class="st1" d="M73.1,26.6c-0.9,0.6-0.9,1.9-0.3,2.8c5.3,6.3,1.6,17.5,1.3,18.8l-9.7,27.5L49.9,34.4h5.4
                                     c1.3,0,1.9-0.9,1.9-1.9c0-0.9-0.6-1.9-1.9-1.9h-7.7c-0.4-0.1-0.7-0.1-1.1,0h-7.2c-0.9,0-1.9,0.9-1.9,1.9c0,0.9,0.6,1.9,1.9,1.9
                                     h6.4l4.4,12.8l-9.9,28.4L25.9,34.4h5.7c1.3,0,1.9-0.9,1.9-1.9c0-0.9-0.6-1.9-1.9-1.9h-8c-0.4-0.1-0.7-0.1-1.1,0h-6.9
                                     c-0.9,0-1.9,0.9-1.9,1.9c0,0.9,0.6,1.9,1.9,1.9h6.1L37.8,81c0.3,0.6,0.9,1.3,1.9,1.3h0.9c0.9,0,1.6-0.3,1.9-1.3l9.8-27.7L61.9,81
@@ -315,8 +246,8 @@
                               </svg></span>Wordpress Development</a>
                             </li>
                             <li class="">
-                              <a href="https://www.intelivita.co.uk/php-codeigniter-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-                               <path class="st0" d="M88.7,54.5c-3.4-8.4-13.6-15.5-18-18.3c-4.3-2.8-4,1.9-4,1.9c-0.6,2.2-1.9,2.8-2.8,3.1c-2.2,0.3-5-0.6-5.3-4
+                              <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                               <path class="st1" d="M88.7,54.5c-3.4-8.4-13.6-15.5-18-18.3c-4.3-2.8-4,1.9-4,1.9c-0.6,2.2-1.9,2.8-2.8,3.1c-2.2,0.3-5-0.6-5.3-4
                                c-0.3-3.4,0-3.7,1.2-8.4c1.2-5,0.3-10.8-0.3-14.2c-0.9-3.1-2.8-5.9-7.7-11.8c-5-5.9-5.9-0.6-5.9-0.6c3.7,13.9-10.5,22.9-14.6,26.6
                                C10.6,46.1,10,57.9,8.8,64.7C7.8,95,35.4,99.1,35.4,99.1c3.1-0.9,1.9-3.1,1.5-3.7c-0.6-0.3-4-3.7-5.3-5.3c-5-5.3-4.6-9.6-4.3-10.2
                                c0.6-4.6,4.3-9.6,4.6-10.2c0,1.9,0.3,3.1,1.2,4.6c3.4,5,9.6,3.7,9.6,3.7c7.1-1.5,6.8-8.7,6.8-11.1c0-2.5-3.4-6.2-4.3-6.8
@@ -331,8 +262,8 @@
                              </svg></span>Codeigniter Development</a>
                             </li>
                             <li>
-                              <a href="https://www.intelivita.co.uk/laravel-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-                               <path class="st0" d="M99.7,46.4c-0.6-0.7-9.8-13-11.4-15c-1.6-2-2.5-1.7-3.5-1.7c-0.9,0-12.6,2.3-13.9,2.3c-1.3,0.3-2.2,0.7-1.3,2
+                              <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                               <path class="st1" d="M99.7,46.4c-0.6-0.7-9.8-13-11.4-15c-1.6-2-2.5-1.7-3.5-1.7c-0.9,0-12.6,2.3-13.9,2.3c-1.3,0.3-2.2,0.7-1.3,2
                                c0.6,1,8.2,12.4,10.1,15l-30.3,7.7L25.5,14c-0.9-1.7-1.3-2-3.5-2C19.8,12,3,13.7,1.8,13.7c-1.3,0-2.5,0.7-1.3,3.7
                                c1.3,3,20.2,46.4,20.8,47.7c0.6,1.3,1.9,3.3,5.1,2.7c3.5-1,14.8-4,21.2-5.7c3.5,6.3,10.1,19,11.4,21c1.6,2.7,2.8,2,5.4,1.3
                                c1.9-0.7,31.3-11.7,32.5-12.4c1.3-0.7,2.2-1,1.3-2.3c-0.6-1-8.2-12-12.3-17.7c2.8-0.7,12.6-3.7,13.6-4
@@ -344,20 +275,20 @@
                              </svg></span>Laravel Development</a>
                             </li>
                             <li>
-                            <a href="https://www.intelivita.co.uk/angularjs-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                <g>
                                 <g>
-                                  <path class="st0" d="M50,0L0,17.9l10.3,60.7L50,100l39.7-21.4L100,17.9L50,0z M83.2,74L50,91.8L16.7,74L8,22.6L50,7.1l42,15.4
+                                  <path class="st1" d="M50,0L0,17.9l10.3,60.7L50,100l39.7-21.4L100,17.9L50,0z M83.2,74L50,91.8L16.7,74L8,22.6L50,7.1l42,15.4
                                   L83.2,74z M21.4,71.4h8.9l5.9-12.5h27.4l5.9,12.5h8.9L50,8.9L21.4,71.4z M40.5,50L50,30.1L59.5,50H40.5z"></path>
                                 </g>
                               </g>
                             </svg></span>AngularJS Development</a>
                             </li>
                             <li>
-                              <a href="https://www.intelivita.co.uk/nodejs-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                              <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                 <g>
                                   <g>
-                                    <path class="st0" d="M95.3,27.6c-0.4-2.1-1.7-4.1-3.6-5.3c-0.5-0.3-9.2-5.3-19.4-11.1C61.1,4.8,53.6,0.6,52.9,0.4
+                                    <path class="st1" d="M95.3,27.6c-0.4-2.1-1.7-4.1-3.6-5.3c-0.5-0.3-9.2-5.3-19.4-11.1C61.1,4.8,53.6,0.6,52.9,0.4
                                     c-1.4-0.5-3.6-0.5-5,0c-0.6,0.2-8.4,4.6-20.1,11.2c-17.1,9.7-19.2,11-20,11.8c-1.1,1.1-2,2.7-2.2,4.2c-0.1,0.6-0.2,8.5-0.2,22.5
                                     c0,23.4,0,22.6,0.9,24.5c0.3,0.6,0.8,1.3,1.5,2c1,1,1.7,1.4,6.3,4c8.3,4.7,9.8,5.2,14.1,5.1c2.3-0.1,3.4-0.3,4.9-1
                                     c2.8-1.3,4.7-4.1,5.3-7.6c0.1-0.7,0.2-8.4,0.2-22.9c0-21.7,0-22-0.3-22.3c-0.3-0.3-0.5-0.3-3.1-0.3c-2.6,0-2.8,0-3.1,0.3
@@ -412,10 +343,10 @@
 </span>
 <ul class="serv-ul">
                           <li class="">
-                            <a href="https://www.intelivita.co.uk/ios-game-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                            <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                               <g>
                                 <g>
-                                  <path class="st0" d="M49.7,25.7c0.4,0,0.8,0,1.1,0c5.3,0,11-2.9,14.8-7.5c4-4.8,6.1-11,5.5-16.6c-0.1-1-1-1.7-2-1.7
+                                  <path class="st1" d="M49.7,25.7c0.4,0,0.8,0,1.1,0c5.3,0,11-2.9,14.8-7.5c4-4.8,6.1-11,5.5-16.6c-0.1-1-1-1.7-2-1.7
                                   c-5.4,0.2-11.8,3.5-15.6,7.9c-3.3,3.7-6.4,9.9-5.6,16.2C48.1,24.9,48.8,25.6,49.7,25.7z M56.5,10.3c2.7-3.1,7.1-5.6,11-6.3
                                   c-0.1,4.1-1.8,8.4-4.7,11.9c-2.9,3.5-7.2,5.8-11.1,6.1C51.7,17.4,54.1,12.9,56.5,10.3z M90.1,70c-1.2-0.5-11.7-5.1-11.8-17.5
                                   c-0.1-9.9,7.2-15.1,9.6-16.6c0.4-0.3,0.7-0.7,0.8-1.2c0.1-0.5,0-1-0.3-1.4C82.3,24.5,73,23.2,69.4,23.1c-5-0.5-9.9,1.4-13.6,2.8
@@ -431,8 +362,8 @@
                             </svg></span>iOS Game Development</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/android-game-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-                              <path class="st0" d="M65.3,9l2.9-4.3c0.5-0.7,0.6-1.5,0.5-2.3c-0.2-0.8-0.6-1.5-1.3-1.9C66-0.4,64,0,63.1,1.3l-3.4,5.1
+                            <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                              <path class="st1" d="M65.3,9l2.9-4.3c0.5-0.7,0.6-1.5,0.5-2.3c-0.2-0.8-0.6-1.5-1.3-1.9C66-0.4,64,0,63.1,1.3l-3.4,5.1
                               c-6.2-2-13.2-2-19.4,0l-3.4-5.1C36,0,34-0.4,32.7,0.5c-1.4,0.9-1.8,2.8-0.8,4.2L34.7,9c-7.1,4.2-11.5,11.4-11.5,18.9
                               c0,1.2,1,2.1,2.2,2.1h49.6c1.2,0,2.2-1,2.2-2.1C77,20.4,72.5,13.2,65.3,9L65.3,9z M27.6,25.8c0.8-5.9,5-11.2,11.1-14
                               c0.3-0.1,0.5-0.3,0.7-0.5c0.3,0,0.6,0,0.8-0.1c6.1-2.4,13.4-2.4,19.5,0c0.3,0.1,0.6,0.2,0.8,0.1c0.2,0.2,0.4,0.4,0.7,0.5
@@ -452,7 +383,7 @@
                            </svg></span>Android Game Development</a>
                           </li>
                           <li class="">
-                            <a href="https://www.intelivita.co.uk/unity-2d-3d-game-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
                              <g>
                               <path d="M60.5,54.7c0-7.6,0-15.2,0-22.7c0,0,0,0,0,0c0-7.9,0-15.7,0-23.6c0-3.4-1.9-5-5-4.4c-4.3,0.9-8.7,2-13,2.9
                               c-3.6,0.7-7.1,1.9-10.8,1.9c-7.7-0.1-15.4,0-23,0c-3,0-4.6,1.6-4.6,4.6C4,25,4,36.7,4.2,48.4c0.1,3,1.4,4.3,4.4,4.3
@@ -485,10 +416,10 @@
                             </svg></span>2D/3D Game Development</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/augmented-reality-game-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
                               <g>
                               <g>
-                                <path class="st0" d="M17.7,28.9h-2.6c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2.6c0.3,0,0.5-0.2,0.5-0.5
+                                <path class="st1" d="M17.7,28.9h-2.6c-0.3,0-0.5,0.2-0.5,0.5c0,0.3,0.2,0.5,0.5,0.5h2.6c0.3,0,0.5-0.2,0.5-0.5
                                 C18.2,29.1,18,28.9,17.7,28.9z M10,12.4C10,12.4,10,12.4,10,12.4C10,12.4,10,12.4,10,12.4C10,12.5,10,12.5,10,12.4
                                 C10,12.5,10,12.5,10,12.4C10,12.5,10,12.5,10,12.4C10,12.5,10,12.5,10,12.4L10,12.4C10,12.5,10,12.5,10,12.4L10,12.4
                                 C10,12.5,10,12.5,10,12.4C10,12.5,10,12.5,10,12.4C9.9,12.5,9.9,12.5,10,12.4C9.9,12.5,9.9,12.5,10,12.4L10,12.4
@@ -518,10 +449,10 @@
                             </svg></span>AR Game Development</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/virtual-reality-game-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
                              <g>
                               <g>
-                                <path class="st0" d="M11.2,14.9h2.6c0.6,0,1.1-0.3,1.3-0.8c0.1-0.1,0.2-0.2,0.4-0.2h0.9c0.2,0,0.3,0.1,0.4,0.2
+                                <path class="st1" d="M11.2,14.9h2.6c0.6,0,1.1-0.3,1.3-0.8c0.1-0.1,0.2-0.2,0.4-0.2h0.9c0.2,0,0.3,0.1,0.4,0.2
                                 c0.3,0.5,0.8,0.8,1.3,0.8h2.6c1.2,0,2.1-1,2.1-2.1v-2.1c0-1.2-1-2.1-2.1-2.1h-9.6c-1.2,0-2.1,1-2.1,2.1v2.1
                                 C9.1,14,10,14.9,11.2,14.9z M10.1,10.7c0-0.6,0.5-1.1,1.1-1.1h9.6c0.6,0,1.1,0.5,1.1,1.1v2.1c0,0.6-0.5,1.1-1.1,1.1h-2.6
                                 c-0.2,0-0.3-0.1-0.4-0.2c-0.3-0.5-0.8-0.8-1.3-0.8h-0.9c-0.6,0-1.1,0.3-1.3,0.8c-0.1,0.1-0.2,0.2-0.4,0.2h-2.6
@@ -542,20 +473,20 @@
                             </svg></span>VR Game Development</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/mac-game-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-                             <path class="st0" d="M3,14.8h2.5c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,14.8,3,14.8z"></path>
-                             <path class="st0" d="M3,12.8h1c0.3,0,0.5-0.2,0.5-0.5S4.3,11.8,4,11.8H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,12.8,3,12.8z"></path>
-                             <path class="st0" d="M3,16.8h1c0.3,0,0.5-0.2,0.5-0.5S4.3,15.8,4,15.8H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,16.8,3,16.8z"></path>
-                             <path class="st0" d="M26.5,14.8H29c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5h-2.5c-0.3,0-0.5,0.2-0.5,0.5S26.2,14.8,26.5,14.8z"></path>
-                             <path class="st0" d="M28,12.8h1c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5h-1c-0.3,0-0.5,0.2-0.5,0.5S27.7,12.8,28,12.8z"></path>
-                             <path class="st0" d="M29,15.8h-1c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h1c0.3,0,0.5-0.2,0.5-0.5S29.3,15.8,29,15.8z"></path>
-                             <path class="st0" d="M30.5,3.8h-29C0.7,3.8,0,4.4,0,5.3v18.5c0,0.8,0.7,1.5,1.5,1.5H14c0,0.3,0,0.5-0.1,0.8
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+                             <path class="st1" d="M3,14.8h2.5c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,14.8,3,14.8z"></path>
+                             <path class="st1" d="M3,12.8h1c0.3,0,0.5-0.2,0.5-0.5S4.3,11.8,4,11.8H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,12.8,3,12.8z"></path>
+                             <path class="st1" d="M3,16.8h1c0.3,0,0.5-0.2,0.5-0.5S4.3,15.8,4,15.8H3c-0.3,0-0.5,0.2-0.5,0.5S2.7,16.8,3,16.8z"></path>
+                             <path class="st1" d="M26.5,14.8H29c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5h-2.5c-0.3,0-0.5,0.2-0.5,0.5S26.2,14.8,26.5,14.8z"></path>
+                             <path class="st1" d="M28,12.8h1c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5h-1c-0.3,0-0.5,0.2-0.5,0.5S27.7,12.8,28,12.8z"></path>
+                             <path class="st1" d="M29,15.8h-1c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h1c0.3,0,0.5-0.2,0.5-0.5S29.3,15.8,29,15.8z"></path>
+                             <path class="st1" d="M30.5,3.8h-29C0.7,3.8,0,4.4,0,5.3v18.5c0,0.8,0.7,1.5,1.5,1.5H14c0,0.3,0,0.5-0.1,0.8
                              c-0.2,0.4-0.5,0.8-0.8,1.1c0,0,0,0,0,0h-1.3c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h8.5c0.3,0,0.5-0.2,0.5-0.5s-0.2-0.5-0.5-0.5
                              h-1.6c0,0,0,0,0,0c-0.3-0.4-0.5-0.7-0.8-1.1c-0.1-0.3-0.1-0.5-0.1-0.8h12.7c0.8,0,1.5-0.7,1.5-1.5V5.3C32,4.4,31.3,3.8,30.5,3.8z
                              M1.5,4.8h29C30.8,4.8,31,5,31,5.3v17H1v-17C1,5,1.2,4.8,1.5,4.8z M16.8,25.3c0,0.4,0.1,0.8,0.2,1.2c0.1,0.3,0.3,0.6,0.5,0.8h-3.2
                              c0.2-0.3,0.4-0.5,0.5-0.8c0.1-0.4,0.2-0.8,0.2-1.2H16.8z M30.5,24.3h-29C1.2,24.3,1,24,1,23.8v-0.5h30v0.5
                              C31,24,30.8,24.3,30.5,24.3z"></path>
-                             <path class="st0" d="M12.1,19.6c0.3,0.4,0.8,0.8,1.3,1c0.6,0.2,1.2,0.1,1.7-0.1c0.1,0,0.2-0.1,0.2-0.1c0.5-0.2,1.1-0.2,1.6,0
+                             <path class="st1" d="M12.1,19.6c0.3,0.4,0.8,0.8,1.3,1c0.6,0.2,1.2,0.1,1.7-0.1c0.1,0,0.2-0.1,0.2-0.1c0.5-0.2,1.1-0.2,1.6,0
                              l0.2,0.1c0.1,0,0.2,0.1,0.3,0.1c0.6,0.2,1.4,0.1,1.9-0.3c0.7-0.5,1.3-1.2,1.7-2c0.1-0.3,0.3-0.5,0.4-0.7c0.2-0.2,0.2-0.5,0.2-0.7
                              c0-0.1-0.1-0.2-0.3-0.3c-0.9-0.4-1.3-1-1.4-1.8s0.3-1.5,1.1-2c0.2-0.1,0.3-0.4,0.2-0.7c0,0,0,0,0-0.1l0,0c-0.8-1-2.1-1.5-3.3-1.3
                              c-0.3,0.1-0.6,0.1-0.9,0.2c-0.5,0.2-0.9,0.3-1.4,0.1l-0.3-0.1c-0.6-0.2-1.2-0.3-1.8-0.3c-0.8,0.1-1.6,0.4-2.2,1c-1,1-1.4,2.5-1,4.3
@@ -563,10 +494,10 @@
                              c0.2-0.1,0.5-0.2,0.8-0.2c0.7-0.1,1.5,0.1,2,0.6c-0.8,0.6-1.2,1.6-1.1,2.6c0.1,1,0.7,1.9,1.6,2.4l0,0c-0.5,1-1.1,1.7-1.6,2.1
                              c-0.3,0.2-0.7,0.3-1,0.1c-0.1,0-0.2-0.1-0.3-0.1l-0.2-0.1c-0.8-0.3-1.6-0.3-2.4,0c-0.1,0-0.2,0.1-0.3,0.1c-0.1,0.1-0.3,0.1-0.5,0.2
                              c-0.7,0.1-1.2-0.5-1.4-0.8c-0.8-0.9-1.3-2-1.6-3.1C11.2,15.2,11,13.5,12.1,12.5L12.1,12.5z"></path>
-                             <path class="st0" d="M15.5,10.1c0.1,0.1,0.2,0.1,0.3,0.1h0.1c2.5-0.4,3-2.5,2.9-3.5c0-0.3-0.3-0.5-0.5-0.5c0,0,0,0-0.1,0
+                             <path class="st1" d="M15.5,10.1c0.1,0.1,0.2,0.1,0.3,0.1h0.1c2.5-0.4,3-2.5,2.9-3.5c0-0.3-0.3-0.5-0.5-0.5c0,0,0,0-0.1,0
                              c-2.6,0.5-3,2.5-2.9,3.6C15.3,9.9,15.3,10.1,15.5,10.1z M17.7,7.4c-0.1,0.8-0.7,1.4-1.4,1.7C16.4,8.3,17,7.7,17.7,7.4L17.7,7.4z"></path>
-                             <circle class="st0" cx="22.3" cy="27.8" r="0.5"></circle>
-                             <circle class="st0" cx="9.8" cy="27.8" r="0.5"></circle>
+                             <circle class="st1" cx="22.3" cy="27.8" r="0.5"></circle>
+                             <circle class="st1" cx="9.8" cy="27.8" r="0.5"></circle>
                            </svg></span>Mac Game Development</a>
                           </li>
                         </ul>
@@ -576,7 +507,7 @@
           <svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve" class="">
                               <g>
                                 <g>
-                                  <path class="st0" d="M64.1,52.6h26.6c0.9,0,1.6-0.7,1.6-1.6v-31v-7.8c0-0.9-0.7-1.6-1.6-1.6H64.1c-0.9,0-1.6,0.7-1.6,1.6v7.8v31
+                                  <path class="st1" d="M64.1,52.6h26.6c0.9,0,1.6-0.7,1.6-1.6v-31v-7.8c0-0.9-0.7-1.6-1.6-1.6H64.1c-0.9,0-1.6,0.7-1.6,1.6v7.8v31
                                   C62.5,52,63.2,52.6,64.1,52.6z M65.6,13.9h23.4v4.7H65.6V13.9z M65.6,21.6h23.4v27.9H65.6V21.6z M68.8,27.8h3.1v-3.1h-3.1V27.8z
                                   M75,27.8h10.9v-3.1H75V27.8z M68.8,34h3.1v-3.1h-3.1V34z M75,34h10.9v-3.1H75V34z M68.8,40.2h3.1v-3.1h-3.1V40.2z M75,40.2h10.9
                                   v-3.1H75V40.2z M68.8,46.4h3.1v-3.1h-3.1V46.4z M75,46.4h10.9v-3.1H75V46.4z M9.4,52.6h6.3c0.9,0,1.6-0.7,1.6-1.6v-1.6h21.9v1.6
@@ -601,7 +532,7 @@
 </span>
 <ul class="serv-ul">
                           <li class="">
-                            <a href="https://www.intelivita.co.uk/startup-mvp-development.php"><span class="submenuicon">
+                            <a href="#"><span class="submenuicon">
                               <svg x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve" class="">
                                 <g>
                                   <path d="M30,25.1c0,7.2,0,14.4,0,21.6c0,0.7-0.1,1.4-0.3,2c-0.4,0.9-1.2,1.2-2.2,1.2c-7.1,0-14.2,0-21.2,0c-1.6,0-2.5-1-2.5-2.5
@@ -661,8 +592,8 @@
                             </a>
                           </li>
                           <li class="">
-                            <a href="https://www.intelivita.co.uk/erp-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100.8 100.8" style="enable-background:new 0 0 100.8 100.8;" xml:space="preserve">
-                           <path class="st0" d="M36.71,55.82h-1.98c-1.19,0-2.18-0.8-2.38-2v-0.8c-0.2,0-0.2-0.2-0.4-0.2l-0.79,0.6
+                            <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100.8 100.8" style="enable-background:new 0 0 100.8 100.8;" xml:space="preserve">
+                           <path class="st1" d="M36.71,55.82h-1.98c-1.19,0-2.18-0.8-2.38-2v-0.8c-0.2,0-0.2-0.2-0.4-0.2l-0.79,0.6
                            c-0.99,0.6-2.38,0.6-3.17-0.2l-1.19-1.4c-0.79-0.8-0.99-2.21-0.2-3.21l0.6-0.8c0-0.2-0.2-0.2-0.2-0.4l-0.79-0.2
                            C25,47,24.21,46,24.21,44.8v-1.8c0-1.2,0.79-2.21,1.98-2.41l0.79-0.2c0-0.2,0.2-0.2,0.2-0.4l-0.6-0.8c-0.6-1-0.6-2.41,0.2-3.21
                            l1.39-1.4c0.79-0.8,2.18-1,3.17-0.2l0.79,0.6c0.2,0,0.2-0.2,0.4-0.2l0.2-0.8c0.2-1.2,1.19-2,2.38-2h1.98c1.19,0,2.18,0.8,2.38,2
@@ -709,17 +640,17 @@
                            C53.97,62.44,56.35,60.63,56.35,60.63z M61.11,60.03c-3.77,0-6.75-3.01-6.75-6.82s2.98-6.82,6.75-6.82c3.77,0,6.75,3.01,6.75,6.82
                            S64.89,60.03,61.11,60.03z M61.11,49.01c-2.38,0-4.17,1.8-4.17,4.21c0,2.41,1.79,4.21,4.17,4.21s4.17-1.8,4.17-4.21
                            C65.28,50.81,63.5,49.01,61.11,49.01z"></path>
-                           <path class="st0" d="M92.86,84.49H7.94C3.57,84.49,0,80.88,0,76.47V14.73c0-4.41,3.57-8.02,7.94-8.02h84.73
+                           <path class="st1" d="M92.86,84.49H7.94C3.57,84.49,0,80.88,0,76.47V14.73c0-4.41,3.57-8.02,7.94-8.02h84.73
                            c4.37,0,7.94,3.41,8.14,7.82v61.94C100.8,80.88,97.23,84.49,92.86,84.49z M7.94,10.72c-2.18,0-3.97,1.8-3.97,4.01v61.74
                            c0,2.21,1.79,4.01,3.97,4.01h84.93c2.18,0,3.97-1.8,3.97-4.01V14.73c-0.2-2-1.79-4.01-4.17-4.01C92.66,10.72,7.94,10.72,7.94,10.72z
                            "></path>
-                           <path class="st0" d="M72.43,95.71H28.18c-0.79,0-1.59-0.4-1.79-1.2c-0.4-0.8-0.2-1.6,0.4-2.21L37.9,80.88c0.4-0.4,0.79-0.6,1.39-0.6
+                           <path class="st1" d="M72.43,95.71H28.18c-0.79,0-1.59-0.4-1.79-1.2c-0.4-0.8-0.2-1.6,0.4-2.21L37.9,80.88c0.4-0.4,0.79-0.6,1.39-0.6
                            h22.03c0.6,0,0.99,0.2,1.39,0.6l11.11,11.43c0.6,0.6,0.79,1.4,0.4,2.21C74.01,95.31,73.22,95.71,72.43,95.71z M32.94,91.7h34.72
                            l-7.14-7.42H40.08C40.08,84.29,32.94,91.7,32.94,91.7z"></path>
                             </svg></span>ERP Solutions</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/crm-development.php" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+                            <a href="#" class=""><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
                              <g>
                               <path d="M23.31,18.59V9.92c2.03-0.52,3.53-2.37,3.53-4.56c0-2.59-2.11-4.7-4.7-4.7c-2.59,0-4.7,2.11-4.7,4.7
                               c0,2.19,1.5,4.03,3.53,4.56v8.67c-2.46,0.37-4.55,1.89-5.7,3.99l-5.15-4c0.13-0.35,0.19-0.74,0.19-1.13c0-1.87-1.52-3.39-3.39-3.39
@@ -743,7 +674,7 @@
                             </svg></span>CRM Solutions</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/cms-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
                              <circle cx="41.16" cy="7.96" r="0.78"></circle>
                              <circle cx="38.06" cy="7.96" r="0.78"></circle>
                              <circle cx="34.96" cy="7.96" r="0.78"></circle>
@@ -779,10 +710,10 @@
                            </svg></span>CMS Solutions</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/ecommerce-web-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                <g>
                                 <g>
-                                  <path class="st0" d="M99.6,15.3c-0.3-0.6-0.9-1-1.6-1h-78l-1.6-9.7C18.2,4,17.5,3,16.3,3H2.2C0.9,3,0,4,0,4.9c0,1,0.9,2.3,2.2,2.3
+                                  <path class="st1" d="M99.6,15.3c-0.3-0.6-0.9-1-1.6-1h-78l-1.6-9.7C18.2,4,17.5,3,16.3,3H2.2C0.9,3,0,4,0,4.9c0,1,0.9,2.3,2.2,2.3
                                   h12.2l7.5,46.1c0,0.3,0,0.3,0,0.6l2.5,15.6c0.3,1,0.9,1.9,2.2,1.9h59.5c1.3,0,2.2-1,2.2-2.3c0-1.3-0.9-2.3-2.2-2.3h-58l-1.9-11.7
                                   h62c0.9,0,1.9-0.6,1.9-1.6l9.4-37.3C100.3,16.6,100,16,99.6,15.3z M86.8,51.3H26l-5.3-32.8h74.6L86.8,51.3z M35.7,77
                                   C30.4,77,26,81.5,26,87c0,5.5,4.4,10.1,9.7,10.1s9.7-4.5,9.7-10.1C45.4,81.5,41,77,35.7,77z M35.7,92.9c-3.1,0.3-5.6-2.6-5.6-5.8
@@ -794,10 +725,10 @@
                             </svg></span>Ecommerce Solutions</a>
                           </li>
                           <li>
-                            <a href="https://www.intelivita.co.uk/ui-ux-design-development.php"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                            <a href="#"><span class="submenuicon"><svg x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
                                <g>
                                 <g>
-                                  <path class="st0" d="M73.3,83.4h-30v3.3h30v5c0,2.8-2.2,5-5,5H31.7c-1.8,0-3.4-1-4.3-2.5l-2.9,1.7c1.5,2.6,4.2,4.2,7.2,4.2h36.7
+                                  <path class="st1" d="M73.3,83.4h-30v3.3h30v5c0,2.8-2.2,5-5,5H31.7c-1.8,0-3.4-1-4.3-2.5l-2.9,1.7c1.5,2.6,4.2,4.2,7.2,4.2h36.7
                                   c4.6,0,8.3-3.7,8.3-8.3v-15h-3.3V83.4z M48.3,90v3.3h3.3V90H48.3z M10.1,41.7H5V45h5.1c0.8,10.7,9.3,19.1,19.9,19.9V70h3.3v-5.1
                                   C44,64.2,52.5,55.7,53.3,45h5.1v-3.3h-5.1C52.4,31,44,22.6,33.3,21.8v-5.1H30v5.1c-1.1,0.1-2.2,0.3-3.3,0.5v-8.9h26.7V10H26.7V8.3
                                   c0-2.8,2.2-5,5-5h36.7c1.2,0,2.4,0.4,3.3,1.3l2.2-2.5C72.3,0.7,70.4,0,68.3,0H31.7c-4.6,0-8.3,3.7-8.3,8.3v15
@@ -824,16 +755,18 @@
       </div>
 
       </div>
+      <DownP></DownP>
 
     </div>
-
-
-
-  </div>
 </template>
 
 <script>
-export default {};
+import DownP from './DownP.vue'
+export default {
+  components:{
+    DownP
+  }
+}
 </script>
 
 
@@ -844,27 +777,12 @@ export default {};
 }
 
 
-#navbar .dropdown ul li{
-  display: flex;
-}
-
-#navbar .dropdown ul li a:hover{
-  transform: translateX(5px);
-  transition: .4s;
-}
-
-#navbar .dropdown ul li i{
-  margin-right: 10px;
-}
-
 .our-services-div{
   width: 100vw;
-  height: 90vh;
 }
 
 .os-wrapper{
   position: relative;
-  top: 180px;
   margin: 0 auto;
   max-width:87%;
 }
@@ -915,5 +833,12 @@ export default {};
   margin-right: 20px;
 }
 
+.serv-ul li:hover a{
+  color: #1977cc;
+}
+
+.serv-ul li:hover a svg{
+  fill: #1977cc;
+}
 
 </style>

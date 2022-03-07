@@ -1,0 +1,53 @@
+.map-tabs-nav {
+	padding: 0;
+	width: 28%;
+	float: left;
+}
+
+.map-tabs-iframe {
+	width: 72%;
+	float: left;
+	position: relative;
+}
+.mapiframe {
+	display: none;
+}
+
+.mapiframe {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+}
+.map-tabs-nav li {
+	position: relative;
+	display: block;
+}
+.map-tabs-nav li a {
+	display: block;
+}
+.map-tabs-nav li img {
+	width: 100%;
+}
+
+.map-tabs-nav li h4 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 500;
+	position: absolute;
+	bottom: 30px;
+	right: 50px;
+}
+.clearfix {
+	clear: both;
+}
+.clearfix::after {
+	display: block;
+	clear: both;
+	content: "";
+}
+
+.mapiframe:first-child {
+	display: block;
+}

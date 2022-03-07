@@ -1,0 +1,14 @@
+@media (max-width:991px){
+    .counter-section {
+        flex-wrap: wrap;
+    }
+
+    .about .counter-section {
+        padding-left: 0;
+    }
+
+    .dont-show-on-mobile{
+        display: none;
+    }
+
+}

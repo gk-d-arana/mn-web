@@ -4,10 +4,14 @@ const Main = () => {
      * Easy selector helper function
      */
      const select = (el, all = false) => {
+      //  if(!el){
+      //   return
+      //  }
         el = el.trim()
         if (all) {
           return [...document.querySelectorAll(el)]
         } else {
+          if(el != '')
           return document.querySelector(el)
         }
       }
@@ -76,10 +80,17 @@ const Main = () => {
       
       let selectHeader = document.querySelector('#header')
       let selectTopbar = document.querySelector('#topbar')
+      // let selectNav = document.querySelector('.our-services-div')
+      // let selectNav2 = document.querySelector('.solution-div')
+
       if (selectHeader) {
         const headerScrolled = () => {
           if (window.scrollY > 100) {
             selectHeader.classList.add('header-scrolled')
+            // selectNav.style.top = '-60px'
+            // selectNav2.style.top = '-60px'
+            // selectNav.style.transition = 'all 0.5s'
+            // selectNav2.style.top = 'all 0.5s'
             if (selectTopbar) {
               selectTopbar.classList.add('topbar-scrolled')
             }
@@ -87,6 +98,10 @@ const Main = () => {
             selectHeader.classList.remove('header-scrolled')
             if (selectTopbar) {
               selectTopbar.classList.remove('topbar-scrolled')
+          //     selectNav.style.top = '0px'
+          //     selectNav2.style.top = '0px'
+          // selectNav.style.transition = ''
+          // selectNav2.style.top = ''
             }
           }
         }
@@ -175,7 +190,18 @@ const Main = () => {
           preloader.remove()
         });
       }
-    
+
+
+      document.querySelectorAll('.gototop').forEach(ell=>{
+        ell.addEventListener("click", ()=>{
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        })
+      })
+      
+
+
+
+
 } 
 
 export default Main
