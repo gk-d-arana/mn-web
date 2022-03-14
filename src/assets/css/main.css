@@ -1,6 +1,7 @@
 body{
   overflow-x: hidden;
   min-height: 150vh;
+  scroll-behavior: smooth;
 }
 
 
@@ -323,3 +324,4 @@ a{
 .hidden{
   display: none;
 }
+

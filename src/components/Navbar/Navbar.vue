@@ -56,8 +56,8 @@
                   >
                 </li>
                 <li>
-                  <a href="#"
-                    ><i class="bx bx-chevron-right"></i>Technologies</a
+                  <router-link to="/technologies"
+                    ><i class="bx bx-chevron-right"></i>Technologies</router-link
                   >
                 </li>
               </ul>
