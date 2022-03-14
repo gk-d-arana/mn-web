@@ -18,7 +18,18 @@
 </template>
 
 <script>
+import Typed from "typed.js";
+
 export default {
+
+  mounted(){
+new Typed(".typed", {
+        strings: ["MISSION ?", "VISION?"],
+        typeSpeed: 100,
+        loop: true,
+        backSpeed: 100,
+      });
+  }
 
 }
 </script>

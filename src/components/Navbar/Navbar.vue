@@ -45,10 +45,10 @@
               ></a>
               <ul>
                 <li>
-                  <a href="#"><i class="bx bx-chevron-right"></i>Who We Are</a>
+                  <router-link to="/about-us"><i class="bx bx-chevron-right"></i>Who We Are</router-link>
                 </li>
                 <li>
-                  <a href="#"><i class="bx bx-chevron-right"></i>How We Work</a>
+                  <router-link to="/process"><i class="bx bx-chevron-right"></i>How We Work</router-link>
                 </li>
                 <li>
                   <a href="#"

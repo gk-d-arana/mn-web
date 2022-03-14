@@ -19,9 +19,11 @@
 
     <Process></Process>
 
+    <Portfolio></Portfolio>
+
+
     <ClientReviews></ClientReviews>
 
-    <Portfolio></Portfolio>
 
     <WhoTalkAboutUs></WhoTalkAboutUs>
 
@@ -42,12 +44,11 @@
 </template>
 
 <script>
-import Typed from "typed.js";
 import $ from "jquery";
 
 import Portfolio from "../components/Home/Portfolio.vue";
 import About from "../components/Home/About.vue";
-import BrandsLogos from "../components/Home/BrandsLogos.vue";
+import BrandsLogos from "../components/AssetComponents/BrandsLogos.vue";
 import ClientReviews from "../components/Home/ClientReviews.vue";
 import HomeBanner from "../components/Home/HomeBanner.vue";
 import Industries from "../components/Home/Industries.vue";
@@ -90,14 +91,8 @@ export default {
     },
   mounted() {
     $(document).ready(function () {
-      Flags()
-      new Typed(".typed", {
-        strings: ["MISSION ?", "VISION?"],
-        typeSpeed: 100,
-        loop: true,
-        backSpeed: 100,
-      });
-    });
+      Flags()  
+  })
   },
 };
 </script>

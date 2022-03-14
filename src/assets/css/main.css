@@ -312,7 +312,13 @@ a{
   display: block;
 }
 
+.padding-6030 {
+	padding: 60px 0 30px;
+}
 
+.mb-600{
+  margin-bottom: 620px;
+}
 
 .hidden{
   display: none;

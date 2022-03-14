@@ -14,7 +14,7 @@
           name="from_name"
           class="form-control"
           placeholder="Name"
-          required=""
+          required
           v-model="from_name"
           onfocus="this.placeholder = ''"
           onblur="this.placeholder = 'Name'"
@@ -35,7 +35,7 @@
           name="from_email"
           class="form-control"
           placeholder="Email"
-          required=""
+          required
           onfocus="this.placeholder = ''"
           onblur="this.placeholder = 'Email'"
           data-bv-field="email"
@@ -3565,7 +3565,7 @@
                 name="some num"
                 class="form-control contact-phone"
                 placeholder="Contact No"
-                required=""
+                required
                 onfocus="this.placeholder = ''"
                 onblur="this.placeholder = 'Contact No'"
                 minlength="10"
@@ -3623,7 +3623,7 @@
         <select
           class="form-control"
           name="region"
-          required=""
+          required
           data-bv-field="region"
           v-model="region"
         >
@@ -3648,7 +3648,7 @@
         <select
           class="form-control"
           name="service"
-          required=""
+          required
           data-bv-field="service"
           v-model="service"
         >

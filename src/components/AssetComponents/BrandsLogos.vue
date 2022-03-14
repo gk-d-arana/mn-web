@@ -1,7 +1,7 @@
 <template>
   
     <section class="brand-logo dont-show-on-mobile">
-      <div class="container">
+      <div class="container" style="background-color:transparent;">
         <div
           class="brands_logo d-flex flex-wrap align-items-center justify-content-center"
         >
@@ -61,7 +61,5 @@ export default {
 </script>
 
 <style>
-.brand-logo{
-  background: #fff;
-}
+
 </style>

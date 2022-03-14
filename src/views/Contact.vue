@@ -32,7 +32,4 @@ export default {
 
 <style scoped>
 @import url("../assets/css/contact.css");
-.mb-600{
-  margin-bottom: 620px;
-}
 </style>
