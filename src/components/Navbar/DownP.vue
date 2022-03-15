@@ -1,6 +1,6 @@
 <template>
   <div class="divvv">
-      <h1>Let's Build Great Things Together <span>Call Us at:<a href="tel:+447368285632">+447368285632</a></span></h1> 
+      <h1>Let's Build Great Things Together <span>Call Us at:<a href="tel:+917000830437">+917000830437</a></span></h1> 
       <h1>Or</h1>
       <a href="#appointment" class="appointment-btn scrollto"
           >Estimate Your Project</a

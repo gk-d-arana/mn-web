@@ -51,8 +51,8 @@
                   <router-link to="/process"><i class="bx bx-chevron-right"></i>How We Work</router-link>
                 </li>
                 <li>
-                  <a href="#"
-                    ><i class="bx bx-chevron-right"></i>Client Review</a
+                  <router-link to="/client-review"
+                    ><i class="bx bx-chevron-right"></i>Client Review</router-link
                   >
                 </li>
                 <li>
@@ -76,11 +76,11 @@
             </li>
 
             <li class="gototop">
-              <a class="nav-link scrollto" href="#contact">Portfolio</a>
+              <router-link class="nav-link scrollto" to="/portfolio">Portfolio</router-link>
             </li>
 
             <li class="gototop">
-              <a class="nav-link scrollto" href="#contact">Blog</a>
+              <router-link class="nav-link scrollto" to="/blog">Blog</router-link>
             </li>
 
             <li class="gototop">

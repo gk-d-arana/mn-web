@@ -1,6 +1,6 @@
 <template>
 <div>
-  <ClientReviews></ClientReviews>
+  <ClientReviews v-if="!isCr"></ClientReviews>
       
       <WhoTalkAboutUs></WhoTalkAboutUs>
 
@@ -36,6 +36,12 @@ import Partnership from '../Home/Partnership'
 import Map from './Map'
 
 export default {
+  props:{
+    isCr: {
+      type : Boolean,
+      required : false
+    }
+  },
     components:{
         WhoTalkAboutUs,
         ClientReviews,

@@ -6,7 +6,7 @@
         >Do you have a
         <span id="callouts-type">
           <span class="typed"></span
-          ><span>We have a TEAM to get you there.</span>
+          ><span>We have a TEAM to get you there. &nbsp; &nbsp;</span>
         </span>
       </span>
       <router-link

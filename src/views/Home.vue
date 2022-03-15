@@ -19,10 +19,10 @@
 
     <Process></Process>
 
-    <Portfolio></Portfolio>
 
 
     <ClientReviews></ClientReviews>
+    <Portfolio></Portfolio>
 
 
     <WhoTalkAboutUs></WhoTalkAboutUs>
